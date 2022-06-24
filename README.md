@@ -1,7 +1,12 @@
 # Android-Automation
 
-This is the project which is currently ongoing in MAYA Digital Helath for their user android app.
+This is the repository which is containeing different projects for different company 
 
-ALso, I have use appium for this android app  automation
+## Language and  Framework
+- Python
+- Appium
+
+## Report Generation
+- Allure 
 
 For Securty purpose, some of the  credentials have been removed form the repo
