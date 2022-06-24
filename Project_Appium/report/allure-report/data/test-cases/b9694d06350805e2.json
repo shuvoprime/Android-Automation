@@ -1,0 +1,70 @@
+{
+  "uid" : "b9694d06350805e2",
+  "name" : "test_tear_down",
+  "fullName" : "test.test_scenario_01#test_tear_down",
+  "historyId" : "ebc0e3cd7674e278e7966c9431e6234f",
+  "time" : {
+    "start" : 1656106065580,
+    "stop" : 1656106065580,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1656106065131,
+      "stop" : 1656106065580,
+      "duration" : 449
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_scenario_01"
+  }, {
+    "name" : "host",
+    "value" : "SHUVO"
+  }, {
+    "name" : "thread",
+    "value" : "17084-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_scenario_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9694d06350805e2.json",
+  "parameterValues" : [ ]
+}
