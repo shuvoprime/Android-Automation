@@ -1,0 +1,70 @@
+{
+  "uid" : "5e833241e33fb3e4",
+  "name" : "test_moving_to_electronics",
+  "fullName" : "test.test_scenario_01#test_moving_to_electronics",
+  "historyId" : "921d68d61fc53911535efd6eb1493c90",
+  "time" : {
+    "start" : 1656105971537,
+    "stop" : 1656105976166,
+    "duration" : 4629
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1656105953407,
+      "stop" : 1656105971535,
+      "duration" : 18128
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_scenario_01"
+  }, {
+    "name" : "host",
+    "value" : "SHUVO"
+  }, {
+    "name" : "thread",
+    "value" : "17084-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_scenario_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e833241e33fb3e4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,55 @@
+{
+  "uid" : "48ffa0f7e88de39c",
+  "name" : "test_updating_requirements",
+  "fullName" : "test.test_scenario_01#test_updating_requirements",
+  "historyId" : "a4777d27d2ad78ea8619351b5be308ff",
+  "time" : {
+    "start" : 1656105986734,
+    "stop" : 1656105994204,
+    "duration" : 7470
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_scenario_01"
+  }, {
+    "name" : "host",
+    "value" : "SHUVO"
+  }, {
+    "name" : "thread",
+    "value" : "17084-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_scenario_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48ffa0f7e88de39c.json",
+  "parameterValues" : [ ]
+}

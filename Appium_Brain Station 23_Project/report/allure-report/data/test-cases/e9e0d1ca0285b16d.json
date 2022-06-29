@@ -1,0 +1,55 @@
+{
+  "uid" : "e9e0d1ca0285b16d",
+  "name" : "test_confirmation_of_purchase",
+  "fullName" : "test.test_scenario_01#test_confirmation_of_purchase",
+  "historyId" : "58e93c6f98bed58481c8fbe6a5657499",
+  "time" : {
+    "start" : 1656106049075,
+    "stop" : 1656106065128,
+    "duration" : 16053
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_scenario_01"
+  }, {
+    "name" : "host",
+    "value" : "SHUVO"
+  }, {
+    "name" : "thread",
+    "value" : "17084-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_scenario_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e9e0d1ca0285b16d.json",
+  "parameterValues" : [ ]
+}
